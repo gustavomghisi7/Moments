@@ -8,10 +8,10 @@
 
 a {
     text-decoration: none;
-    color: #444;
+    color: rgb(105, 100, 100);
     transition: .4s;
 }
 
 a:hover {
-    color: #dec129;
+    color: #ccac0d;
 }
