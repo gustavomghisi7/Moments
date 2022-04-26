@@ -4,8 +4,6 @@ import { Moment } from 'src/app/Moment';
 import { MomentService } from 'src/app/services/moment.service';
 import { environment } from 'src/environments/environment';
 
-import { faSearch } from '@fortawesome/free-solid-svg-icons';
-
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
